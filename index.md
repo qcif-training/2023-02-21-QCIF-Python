@@ -74,7 +74,7 @@ displayed if the 'eventbrite' field in the header is not set.
 <strong>Some adblockers block the registration window. If you do not see the
   registration box below, please check your adblocker settings.</strong>
  
-  <iframe id="iframe-container" src="https://events.humanitix.com/introduction-to-programming-plotting-and-programming-in-python-210223/tickets?w=true&p=%23353337" width="100%" height="280px" scrolling="auto" frameborder="0"></iframe>  
+  <iframe id="iframe-container" src="https://events.humanitix.com/introduction-to-programming-plotting-and-programming-in-python-210223/tickets?w=true&p=%23353337" width="100%" height="600px" scrolling="auto" frameborder="0"></iframe>  
 
 {% endif %}
 
