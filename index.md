@@ -75,26 +75,8 @@ displayed if the 'eventbrite' field in the header is not set.
   registration box below, please check your adblocker settings.</strong>
   
   <iframe id="iframe-container" src="https://events.humanitix.com/introduction-to-programming-r-for-reproducible-scientific-analysis-070223/tickets?w=true&p=%23353337" width="100%" height="280px" scrolling="auto" frameborder="0"></iframe>
-  
-<iframe
-  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
-  frameborder="0"
-  width="100%"
-  height="280px"
-  scrolling="auto">
-</iframe>
+
 {% endif %}
-
-
-{% comment %}
-Eventbrite frame formatting
-<iframe
-  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
-  frameborder="0"
-  width="100%"
-  height="280px"
-  scrolling="auto">
-{% endcomment %}
 
 <h2 id="general">General Information</h2>
 
