@@ -17,7 +17,7 @@ instructor: ["Pauline Lawrey","Jason Bell"] # boxed, comma-separated list of ins
 helper: ["Angela Mina Vargas","Billy Kenzler"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["training@qcif.edu.au"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite: ""         # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: "yes"         # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -75,6 +75,8 @@ displayed if the 'eventbrite' field in the header is not set.
   registration box below, please check your adblocker settings.</strong>
   
   <iframe id="iframe-container" src="https://events.humanitix.com/introduction-to-programming-r-for-reproducible-scientific-analysis-070223/tickets?w=true&p=%23353337" width="100%" height="280px" scrolling="auto" frameborder="0"></iframe>
+  
+  <iframe id="iframe-container" src="https://events.humanitix.com/introduction-to-programming-plotting-and-programming-in-python-210223/tickets?w=true&p=%23353337" width="100%" height="280px" scrolling="auto" frameborder="0"></iframe>  
 
 {% endif %}
 
